@@ -1,0 +1,11 @@
+public class SerjWahl {
+    public static void main(String[] args) {
+        String name = "Serj Wahl";
+        String major = "Information Systems";
+        String job = "Information Systems Specialist at Defender Construction";
+
+        System.out.println("Name: " + name);
+        System.out.println("Major: " + major);
+        System.out.println("Expected First Job: " + job);
+    }
+}
